@@ -15,13 +15,3 @@ This repository contains malicious prompts used to evaluate the robustness of LL
 The evaluation set consists of 100 malicious prompts randomly sampled from:
 * **[prompt-injection-safety](https://huggingface.co/datasets/jayavibhav/prompt-injection-safety)**
 * **[malicious-prompts](https://huggingface.co/datasets/ahsanayub/malicious-prompts)**
-
-## Citation
-If you find this work useful, please consider citing:
-```latex
-@article{lin2026overflip,
-  title={Overflip: Repetition-Induced Label Flips in Guardrail Models},
-  author={XXX and others},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
-}
