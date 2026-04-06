@@ -21,7 +21,7 @@ If you find this work useful, please consider citing:
 ```latex
 @article{lin2026overflip,
   title={Overflip: Repetition-Induced Label Flips in Guardrail Models},
-  author={Lin, Paige and others},
+  author={XXX and others},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2026}
 }
